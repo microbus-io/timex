@@ -1,0 +1,8 @@
+github.com/microbus-io/copyrighter v1.2.0 h1:BB7H+JAldXi4jNdu8TtMbR4ylQCNC/iW/DLMjA2g8cc=
+github.com/microbus-io/copyrighter v1.2.0/go.mod h1:gFMq4tn8eFrL9m4Ow9vF0BBKx5OIY89b5Q8zjkMUZq0=
+github.com/microbus-io/testarossa v0.3.3 h1:uOCX6f8B8LcIfsQuA7MdZUkAaSk0VdtbPx24QkL3I3Y=
+github.com/microbus-io/testarossa v0.3.3/go.mod h1:HGjYR/6wvXHw9hjdnWOBJommQGnUsO706SblMBP/wAY=
+gopkg.in/check.v1 v0.0.0-20161208181325-20d25e280405 h1:yhCVgyC4o1eVCa2tZl7eS0r+SDo693bJlVdllGtEeKM=
+gopkg.in/check.v1 v0.0.0-20161208181325-20d25e280405/go.mod h1:Co6ibVJAznAaIkqp8huTwlJQCZ016jof/cbN4VW5Yz0=
+gopkg.in/yaml.v3 v3.0.1 h1:fxVm/GzAzEWqLHuvctI91KS9hhNmmWOoWu0XTYJS7CA=
+gopkg.in/yaml.v3 v3.0.1/go.mod h1:K4uyk7z7BCEPqu6E+C64Yfv1cQ7kz7rIZviUmN+EgEM=
