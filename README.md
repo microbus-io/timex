@@ -7,10 +7,10 @@
 
 With the introduction of `omitzero` in Go 1.24, there is no longer need for custom JSON marshaling code for `time.Time`.
 
-If you project relies on the `timex` package in [`fabric`](https://github.com/microbus-io/fabric) v1.10 or earlier:
+If your project relies on the `timex` package in [`fabric`](https://github.com/microbus-io/fabric) v1.10 or earlier:
 - `go get github.com/microbus-io/timex`
 - Replace all imports of `github.com/microbus-io/fabric/timex` with `github.com/microbus-io/timex`
-- Replace all used of `svc.NowX(ctx)` with `timex.New(svc.Now(ctx))`
+- Replace all uses of `svc.NowX(ctx)` with `timex.New(svc.Now(ctx))`
 
 Going forward:
 - Use `omitzero` instead of `omitempty` when marshaling `time.Time`
